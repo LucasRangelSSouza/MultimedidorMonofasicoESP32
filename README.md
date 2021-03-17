@@ -7,23 +7,23 @@ O objetivo deste trabalho é desenvolver um multimedidor de energia elétrica ca
 
 <p align="center">
 Video apresentação Carlos
-  <a href="https://www.youtube.com/watch?v=GS9BGk7oyCk"><img src="https://github.com/LucasRangelSSouza/CalculadoraEsp32/blob/main/assets/Miniatura.png">
+  <a href="https://www.youtube.com/watch?v=GS9BGk7oyCk"><img src="https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/MiniaturaCarlos.png">
 </p>
 
 <p align="center">
 Video apresentação Denner
-  <a href="https://www.youtube.com/watch?v=GS9BGk7oyCk"><img src="https://github.com/LucasRangelSSouza/CalculadoraEsp32/blob/main/assets/Miniatura.png">
+  <a href="https://www.youtube.com/watch?v=GS9BGk7oyCk"><img src="https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/MiniaturaDenner.png">
 </p>
 
 <p align="center">
 Video apresentação Elivan
-  <a href="https://www.youtube.com/watch?v=GS9BGk7oyCk"><img src="https://github.com/LucasRangelSSouza/CalculadoraEsp32/blob/main/assets/Miniatura.png">
+  <a href="https://www.youtube.com/watch?v=GS9BGk7oyCk"><img src="https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/MiniaturaElivan.png">
 </p>
 
 
 <p align="center">
 Video apresentação Lucas Rangel
-  <a href="https://www.youtube.com/watch?v=GS9BGk7oyCk"><img src="https://github.com/LucasRangelSSouza/CalculadoraEsp32/blob/main/assets/Miniatura.png">
+  <a href="https://www.youtube.com/watch?v=GS9BGk7oyCk"><img src="https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/MiniaturaLucas.png">
 </p>
 
  <br/><br/>
@@ -33,22 +33,52 @@ Video apresentação Lucas Rangel
 
   - ESP32 (38 Pinos)
   <br/><br/>
-![](https://github.com/LucasRangelSSouza/CalculadoraEsp32/blob/main/assets/ESP32-DEVKIT-V4-pinout-v2.jpg)
+![](https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/ESP32-DEVKIT-V4-pinout-v2.jpg)
   <br/><br/>
   
   
   - Display OLED SSD1306
   <br/><br/>
-![](https://github.com/LucasRangelSSouza/CalculadoraEsp32/blob/main/assets/display7.jpg)
+![](https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/display7.jpg)
 <br/><br/>
 
+  - Sensor de tensão ZMTP101b
+  <br/><br/>
+![](https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/ZMPT101B.jpg)
+<br/><br/>
+  
+  - Sensor de corrente ACS
+  <br/><br/>
+![](https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/Acs712.png)
+<br/><br/>
+  
+  - Regulador de tensão
+  <br/><br/>
+![](https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/regtensao.jpg)
+<br/><br/>
+  
+  - Buzzer piezoeletrico
+  <br/><br/>
+![](https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/buzzer_5v-300x300.jpg)
+<br/><br/>
+  
+  - Push button
+  <br/><br/>
+![](https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/push.jpg)
+<br/><br/>
+  
+  - Relê 3v
+  <br/><br/>
+![](https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/rele.jpg)
+<br/><br/>
+
+*Demais componentes discretos (Resistores, transistores e leds)
 
   
 #### Montagem pratica:
 
-  - Esquma eletrico
   
-  ![](https://github.com/LucasRangelSSouza/CalculadoraEsp32/blob/main/assets/esquemaEletrico.bmp)
+  ![](https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/Circuito.jpg)
   
 
 #### Configuração do software:
@@ -58,10 +88,10 @@ siga os passos descritos [aqui](https://randomnerdtutorials.com/installing-the-e
 
   - Logo após configurar o ESP32 na arduino IDE, clone o presente repositorio (É necessario ter um cliente [git](https://git-scm.com/) instalado ).Para clonar o diretorio execute no terminal ou no prompt:
 	```sh
-	$ git clone https://github.com/LucasRangelSSouza/CalculadoraEsp32.git
+	$ git clone https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32.git
 	```
   - Apos clonado abra o ProjetoIHM.ino, no menu de placas selecione a placa: "ESP32 Dev-Module".
-	![](https://github.com/LucasRangelSSouza/CalculadoraEsp32/blob/main/assets/selectPlaca.png)
+	![](https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/selectPlaca.png)
 	
   - Faça o upload do codigo para sua placa. Logo apos o upload o projeto já estara funcionando em seu microcontrolador
 		OBS: Algumas placas ESP32 necessitam que o botao "boot" na placa, seja mantido pressionado durante o upload do codigo.
