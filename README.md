@@ -12,7 +12,7 @@ O objetivo deste trabalho é desenvolver um multimedidor de energia elétrica ca
  <br/><br/>
 <p align="center">
   <b>Video apresentação Denner</b><br/>
-  <a href="https://www.youtube.com/watch?v=GS9BGk7oyCk"><img src="https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/MiniaturaDenner.png">
+  <a href="https://youtu.be/E0b5TNKP-vo"><img src="https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/MiniaturaDenner.png">
 </p>
  <br/><br/>
 <p align="center">
