@@ -82,6 +82,7 @@ Video apresentação Lucas Rangel
   
 
 #### Configuração do software:
+ <br/><br/>
 
   - Para gravar a firmware no microcontrolador utilizando a Arduino IDE
 siga os passos descritos [aqui](https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/)
