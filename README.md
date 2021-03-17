@@ -6,23 +6,22 @@ O objetivo deste trabalho é desenvolver um multimedidor de energia elétrica ca
 ### Video apresentaçoes do projeto:
 
 <p align="center">
-  <b>Video apresentação Carlos</b>
+  <b>Video apresentação Carlos</b><br/>
   <a href="https://www.youtube.com/watch?v=GS9BGk7oyCk"><img src="https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/MiniaturaCarlos.png">
 </p>
-
+ <br/><br/>
 <p align="center">
-  <b>Video apresentação Denner</b>
+  <b>Video apresentação Denner</b><br/>
   <a href="https://www.youtube.com/watch?v=GS9BGk7oyCk"><img src="https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/MiniaturaDenner.png">
 </p>
-
+ <br/><br/>
 <p align="center">
-<b>Video apresentação Elivan</b>
+<b>Video apresentação Elivan</b><br/>
   <a href="https://www.youtube.com/watch?v=GS9BGk7oyCk"><img src="https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/MiniaturaElivan.png">
 </p>
-
-
+ <br/><br/>
 <p align="center">
-<b>Video apresentação Lucas Rangel</b>
+<b>Video apresentação Lucas Rangel</b><br/>
   <a href="https://www.youtube.com/watch?v=GS9BGk7oyCk"><img src="https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/MiniaturaLucas.png">
 </p>
 
