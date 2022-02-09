@@ -12,18 +12,16 @@ O objetivo deste trabalho é desenvolver um multimedidor de energia elétrica ca
 	</p>
 </div>
  <br/><br/>
- <br/><br/>
  <div>
 	<p align="center">
-	  <b>Video apresentação Filipe Grzelak</b><br/>
+	  <b href="https://www.youtube.com/watch?v=fJjLVNWoG3g">Video apresentação Filipe Grzelak</b><br/>
 	  <a href="https://www.youtube.com/watch?v=fJjLVNWoG3g"><img src="https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/FilipeGrzelak.png">
 	</p>
 </div>
  <br/><br/>
- <br/><br/>
 <div>
 	<p align="center">
-	<b>Video apresentação Lucas Rangel</b><br/>
+	<b href="https://youtu.be/qqvrOJMBtQI">Video apresentação Lucas Rangel</b><br/>
 	  <a href="https://youtu.be/qqvrOJMBtQI"><img src="https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/lucasRangel.png">
 	</p>
 </div>
