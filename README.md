@@ -17,7 +17,7 @@ O objetivo deste trabalho é desenvolver um multimedidor de energia elétrica ca
  <br/><br/>
 <p align="center">
 <b>Video apresentação Lucas Rangel</b><br/>
-  <a href="https://youtu.be/qqvrOJMBtQI"><img src="https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/LucasRangel.png">
+  <a href="https://youtu.be/qqvrOJMBtQI"><img src="https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/lucasRangel.png">
 </p>
 
  <br/><br/>
