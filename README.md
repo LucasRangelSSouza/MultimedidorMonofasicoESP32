@@ -1,7 +1,7 @@
 
 [![N|Solid](https://eventos.ifg.edu.br/semanai2c/wp-content/uploads/sites/7/2016/08/marca-ifg-2015-todas-as-verses.png)](https://www.ifg.edu.br/goiania)
 
-# Multimedidor monofasico (ESP-32)
+# Multimedidor monofasico - Instrumentação Industrial
 O objetivo deste trabalho é desenvolver um multimedidor de energia elétrica capaz de realizar a medição da corrente e da tensão em intervalos curtos o suficientes para mensurar o consumo em Kw/h bem como a potência instantânea da fase . Assim, projetou-se um protótipo que, através de sensores analogicos, captura amostras dos sinais analogicos e realiza por meio de tecnicas de processamento digital de sinais obtem-se a corrente e a tensão, para então a determinação do consumo e da potência instantânea, o protótipo projetado, além de apresentar os dado em um display, também envia os dados para uma plataforma nas nuvens para que os dados sejam salvos e uma linha histórica seja mantida.
 ### Video apresentaçoes do projeto por integrante:
 
