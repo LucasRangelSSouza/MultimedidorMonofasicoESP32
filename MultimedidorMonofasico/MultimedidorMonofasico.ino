@@ -18,6 +18,7 @@ EnergyMonitor emon1;                              //Instanciando biblioteca para
 Flash flash;                                      //Instanciando biblioteca trabalhar com arquivos na flash
 portMUX_TYPE mux = portMUX_INITIALIZER_UNLOCKED;  //Instancia de um semaforo implementado pela ESPIDF para controlar variaveis dentro de interrupçoes
 
+
 int btn = 27;     //Pino do botao de interrupçao
 int zmtp = 39;    //Pino do sensor de tensao zmtp101b
 int acs = 36;     //Pino do sensor de corrente acs
@@ -47,6 +48,7 @@ bool conexaoDisponivel = false;  //Indica se existe conexao com a internet para 
 bool stateDisplay = true;   //Variavel que indica o estado atual do display (ligado / desligado)
 volatile bool lastStateDisplay = true; //variavel que contem o último estado do botão quando ocorreu a interrupção
 
+
 //Abaixo temos o htm da pagina do web service assincrono, oque é define nossa IHM de entrada
 const char index_html[] PROGMEM = R"rawliteral(
 <!DOCTYPE HTML><html>
@@ -59,7 +61,7 @@ const char index_html[] PROGMEM = R"rawliteral(
         <form action="/get">
         <tr>
           <td align='center'>
-            <h3>Multimedidor - Oersted </h3>
+            <h3>Multimedidor </h3>
           </td>
         </tr>
         <tr>

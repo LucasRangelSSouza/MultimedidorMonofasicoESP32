@@ -2,27 +2,22 @@
 [![N|Solid](https://eventos.ifg.edu.br/semanai2c/wp-content/uploads/sites/7/2016/08/marca-ifg-2015-todas-as-verses.png)](https://www.ifg.edu.br/goiania)
 
 # Multimedidor monofasico (ESP-32)
-O objetivo deste trabalho é desenvolver um multimedidor de energia elétrica capaz de realizar a medição da corrente e da tensão em intervalos curtos o suficientes para mensurar o consumo em Kw/h bem como a potência instantânea da fase . Assim, projetou-se um protótipo que, através de sensores externos, captura amostras da corrente e da tensão e realiza o processamento de dados para a determinação do consumo e da potência instantânea, o protótipo projetado, além de apresentar os dado em um display, também envia os dados para uma plataforma nas nuvens para que os dados sejam salvos e uma linha histórica seja mantida.
-### Video apresentaçoes do projeto:
+O objetivo deste trabalho é desenvolver um multimedidor de energia elétrica capaz de realizar a medição da corrente e da tensão em intervalos curtos o suficientes para mensurar o consumo em Kw/h bem como a potência instantânea da fase . Assim, projetou-se um protótipo que, através de sensores analogicos, captura amostras dos sinais analogicos e realiza por meio de tecnicas de processamento digital de sinais obtem-se a corrente e a tensão, para então a determinação do consumo e da potência instantânea, o protótipo projetado, além de apresentar os dado em um display, também envia os dados para uma plataforma nas nuvens para que os dados sejam salvos e uma linha histórica seja mantida.
+### Video apresentaçoes do projeto por integrante:
 
 <p align="center">
-  <b>Video apresentação Carlos</b><br/>
-  <a href="https://youtu.be/3okiUbaMF5Y"><img src="https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/MiniaturaCarlos.png">
+  <b>Video apresentação Alisson Vieira</b><br/>
+  <a href="https://youtu.be/3okiUbaMF5Y"><img src="https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/AlissonVieira.png">
 </p>
  <br/><br/>
 <p align="center">
-  <b>Video apresentação Denner</b><br/>
-  <a href="https://youtu.be/WYwgZHkGLjU"><img src="https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/MiniaturaDenner.png">
-</p>
- <br/><br/>
-<p align="center">
-<b>Video apresentação Elivan</b><br/>
-  <a href="https://youtu.be/p4I9QAHyrWM"><img src="https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/MiniaturaElivan.png">
+  <b>Video apresentação Filipe Grzelak</b><br/>
+  <a href="https://youtu.be/WYwgZHkGLjU"><img src="https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/FilipeGrzelak.png">
 </p>
  <br/><br/>
 <p align="center">
 <b>Video apresentação Lucas Rangel</b><br/>
-  <a href="https://youtu.be/hnyyQ29T8nU"><img src="https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/MiniaturaLucas.png">
+  <a href="https://youtu.be/qqvrOJMBtQI"><img src="https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/LucasRangel.png">
 </p>
 
  <br/><br/>
