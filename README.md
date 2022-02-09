@@ -5,23 +5,28 @@
 O objetivo deste trabalho é desenvolver um multimedidor de energia elétrica capaz de realizar a medição da corrente e da tensão em intervalos curtos o suficientes para mensurar o consumo em Kw/h bem como a potência instantânea da fase . Assim, projetou-se um protótipo que, através de sensores analogicos, captura amostras dos sinais analogicos e realiza por meio de tecnicas de processamento digital de sinais obtem-se a corrente e a tensão, para então a determinação do consumo e da potência instantânea, o protótipo projetado, além de apresentar os dado em um display, também envia os dados para uma plataforma nas nuvens para que os dados sejam salvos e uma linha histórica seja mantida.
 ### Video apresentaçoes do projeto por integrante:
 
-<p align="center">
-  <b>Video apresentação Alisson Vieira</b><br/>
-  <a href="https://youtu.be/3okiUbaMF5Y"><img src="https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/AlissonVieira.png">
-</p>
+<div>
+	<p align="center">
+	  <b>Video apresentação Alisson Vieira</b><br/>
+	  <a href="https://youtu.be/3okiUbaMF5Y"><img src="https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/AlissonVieira.png">
+	</p>
+</div>
  <br/><br/>
  <br/><br/>
-<p align="center">
-  <b>Video apresentação Filipe Grzelak</b><br/>
-  <a href="https://youtu.be/WYwgZHkGLjU"><img src="https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/FilipeGrzelak.png">
-</p>
+ <div>
+	<p align="center">
+	  <b>Video apresentação Filipe Grzelak</b><br/>
+	  <a href="https://www.youtube.com/watch?v=fJjLVNWoG3g"><img src="https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/FilipeGrzelak.png">
+	</p>
+</div>
  <br/><br/>
  <br/><br/>
-<p align="center">
-<b>Video apresentação Lucas Rangel</b><br/>
-  <a href="https://youtu.be/qqvrOJMBtQI"><img src="https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/lucasRangel.png">
-</p>
-
+<div>
+	<p align="center">
+	<b>Video apresentação Lucas Rangel</b><br/>
+	  <a href="https://youtu.be/qqvrOJMBtQI"><img src="https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/lucasRangel.png">
+	</p>
+</div>
  <br/><br/>
 
 
