@@ -8,21 +8,21 @@ O objetivo deste trabalho é desenvolver um multimedidor de energia elétrica ca
 <div>
 	<p align="center">
 	  <b>Video apresentação Alisson Vieira</b><br/>
-	  <a href="https://youtu.be/3okiUbaMF5Y"><img src="https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/AlissonVieira.png"></a>
+	  <a href="https://youtu.be/4bRhPEaAbvE"><img src="https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/AlissonVieira.png"></a>
 	</p>
 </div>
  <br/><br/>
  <div>
 	<p align="center">
-	  <b href="https://www.youtube.com/watch?v=fJjLVNWoG3g">Video apresentação Filipe Grzelak</b><br/>
+	  <b>Video apresentação Filipe Grzelak</b><br/>
 	  <a href="https://www.youtube.com/watch?v=fJjLVNWoG3g"><img src="https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/FilipeGrzelak.png"></a>
 	</p>
 </div>
  <br/><br/>
 <div>
 	<p align="center">
-	<b href="https://youtu.be/qqvrOJMBtQI">Video apresentação Lucas Rangel</b><br/>
-	  <a href="https://youtu.be/qqvrOJMBtQI"><img src="https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/lucasRangel.png"></a>
+	<b>Video apresentação Lucas Rangel</b><br/>
+	  <a href="https://youtu.be/hXKg1XqKNyss"><img src="https://github.com/LucasRangelSSouza/MultimedidorMonofasicoESP32/blob/main/assets/lucasRangel.png"></a>
 	</p>
 </div>
  <br/><br/>
